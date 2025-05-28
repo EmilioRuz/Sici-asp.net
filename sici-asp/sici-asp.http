@@ -1,0 +1,6 @@
+@sici_asp_HostAddress = http://localhost:5114
+
+GET {{sici_asp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
